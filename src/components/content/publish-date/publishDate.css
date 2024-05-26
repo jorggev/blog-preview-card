@@ -1,0 +1,7 @@
+.publish-date {
+  color: var(--color-dark);
+  margin: 5px 0px;
+  font-size: 12px;
+  height: max-content;
+  font-weight: bold;
+}

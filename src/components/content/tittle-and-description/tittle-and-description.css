@@ -1,0 +1,12 @@
+.tittle {
+  font-size: 20px;
+  margin: 20px 0px;
+  font-weight: 800;
+}
+
+.description {
+  font-weight: 500;
+  color: var(--color-grey);
+  font-size: 14px;
+  font-weight: bold;
+}

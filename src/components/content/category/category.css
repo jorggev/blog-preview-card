@@ -1,0 +1,13 @@
+.category-container {
+  background-color: var(--color-white);
+  margin: 20px 0px;
+}
+
+.category {
+  background-color: var(--color-yellow);
+  border-radius: 4px;
+  padding: 4px 12px;
+  width: max-content;
+  font-weight: bold;
+  font-size: 12px;
+}
