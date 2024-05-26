@@ -1,6 +1,7 @@
 # React + Vite
 
 Live site URL: https://blog-preview-card-ng2cevlbn-jorggevs-projects.vercel.app/
+Work time: 2h.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
